@@ -1,4 +1,7 @@
-The Project Scenario:
+# Coursera Project Network: Clean and analyze social media usage data with Python
+
+
+# The Project Scenario:
 
 In this project, you will step into the shoes of an entry-level data analyst at a social media agency, helping to create a comprehensive report that analyzes the performance of different categories of social media posts.
 
@@ -6,37 +9,36 @@ Suppose you work for a social media marketing company that specializes in promot
 
 They want you to use Python to automatically extract tweets posted from one or more categories, and to clean, analyze and visualize the data. The team will use your analysis to make data-driven recommendations to clients to improve their social media performance. This feature will help the marketing agency deliver tweets on time, within budget, and gain fast results.
 
-Project Objectives :
+# Project Objectives :
 
 Increase client reach and engagement.
 Gain valuable insights that will help improve social media performance.
 Achieve their social media goals and provide data-driven recommendations.
-Your Challenge:
+# Your Challenge:
 
 Your task will be taking on the role of a social media analyst responsible for collecting, cleaning, and analyzing data on a client's social media posts. You will also be responsible for communicating the insights and making data-driven recommendations to clients to improve their social media performance. To do this, you will set up the environment, identify the categories for the post (fitness, tech, family, beauty, etc) process, analyze, and visualize data.
 
 In this project, we'll use data from Twitter; however, to keep this project unique and open-ended, please feel free to choose whichever major social media website you'd prefer.
 
-After you perform your analysis, you will share your findings.
+# After you perform your analysis, you will share your findings.
 
-See Example Projects:
+# See Example Projects:
 
-Exploratory Data Analysis with Python: https://www.kaggle.com/code/fazilbtopal/exploratory-data-analysis-with-python
-A Simple Tutorial on Exploratory Data Analysis: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
-Detailed exploratory data analysis with python: https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook
-A Simple Tutorial on Exploratory Data Analysis Python · House Prices - Advanced Regression Techniques: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
-Exploratory Data Analysis with Python Python · 1985 Automobile Dataset: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
-Check out these helpful resources:
+1.Exploratory Data Analysis with Python: https://www.kaggle.com/code/fazilbtopal/exploratory-data-analysis-with-python
+2.A Simple Tutorial on Exploratory Data Analysis: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
+3.Detailed exploratory data analysis with python: https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook
+4.A Simple Tutorial on Exploratory Data Analysis Python · House Prices - Advanced Regression Techniques: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
+5.Exploratory Data Analysis with Python Python · 1985 Automobile Dataset: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
+# Check out these helpful resources:
+1.Matplotlib tutorial: https://matplotlib.org/tutorials/introductory/pyplot.html
 
-Matplotlib tutorial: https://matplotlib.org/tutorials/introductory/pyplot.html
+2.Seaborn examples: https://seaborn.pydata.org/examples/index.html
 
-Seaborn examples: https://seaborn.pydata.org/examples/index.html
+3.NumPy tutorial: https://numpy.org/doc/stable/user/quickstart.html
 
-NumPy tutorial: https://numpy.org/doc/stable/user/quickstart.html
+4.Pandas user guide: https://pandas.pydata.org/docs/user_guide/10min.html
 
-Pandas user guide: https://pandas.pydata.org/docs/user_guide/10min.html
-
-Creating an exceptional exploratory data analysis:
+# Creating an exceptional exploratory data analysis:
 
 Data Understanding: The learner should demonstrate a deep understanding of the data and the problem being explored. The following should be included:
 
