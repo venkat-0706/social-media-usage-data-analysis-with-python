@@ -25,10 +25,15 @@ In this project, we'll use data from Twitter; however, to keep this project uniq
 # See Example Projects:
 
 1.Exploratory Data Analysis with Python: https://www.kaggle.com/code/fazilbtopal/exploratory-data-analysis-with-python
+
 2.A Simple Tutorial on Exploratory Data Analysis: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
+
 3.Detailed exploratory data analysis with python: https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook
+
 4.A Simple Tutorial on Exploratory Data Analysis Python · House Prices - Advanced Regression Techniques: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
+
 5.Exploratory Data Analysis with Python Python · 1985 Automobile Dataset: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
+
 # Check out these helpful resources:
 1.Matplotlib tutorial: https://matplotlib.org/tutorials/introductory/pyplot.html
 
